@@ -1,1 +1,1 @@
-after downloading the zip file go to the extracted file location and cut BusinessModels folder and paste it outside the extracted folder. After that open the solution
+After downloading the zip file go to the extracted file location and cut BusinessModels folder and paste it outside the extracted folder. After that open the solution. Finally restore the database from the EmployeeRecords.bak file which is inside Database backup folder.
